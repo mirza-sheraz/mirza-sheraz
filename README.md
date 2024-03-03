@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on AI/ML and MERN related projects. 
 - 💬 Ask me about MERN stack.
 - ⚡ Fun fact: I've got a soft spot for the bad guys...on screen, at least!
+ 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mirza-sheraz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mirza-sheraz/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://www.linux.org/)  
