@@ -1,4 +1,4 @@
-### Hi, I'm Mirza, an AI/ML enthusiast
+### Hi, I'm [Mirza](https://www.linkedin.com/in/mirza-sheraz-a80a0b247/), an AI/ML enthusiast
 
 - 🔭 I’m currently working on Usable Security Recommender (FYP Project). 
 - 🌱 I’m currently learning all about AI/ML.
