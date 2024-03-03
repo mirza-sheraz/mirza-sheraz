@@ -6,5 +6,3 @@
 - 💬 Ask me about MERN stack.
 - ⚡ Fun fact: I've got a soft spot for the bad guys...on screen, at least!
  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://www.linux.org/)  
