@@ -6,5 +6,5 @@
 - 💬 Ask me about MERN stack.
 - ⚡ Fun fact: I've got a soft spot for the bad guys...on screen, at least!
 
-***
+___
 [<img src='https://github.com/mirza-sheraz/mirza-sheraz/blob/main/linux.png' alt='linux' height='40'>](https://www.linux.org/)  
