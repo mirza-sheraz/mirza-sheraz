@@ -1,8 +1,11 @@
 ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/mirza-sheraz-a80a0b247/">Mirza</a>, an AI/ML Enthusiast 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Usable Security Recommender (FYP Project).  
-  
+- 🔭 I’m currently working on Usable Security Recommender <i>(FYP)</i>.
+  <h4><i>FYP Objective:</i></h4>
+  <p>An NLP/ML-powered system that analyzes software reviews, identifies
+  usability and security conlicts, and recommends solutions for a safer and
+  more user-friendly experience.</p>
 
 - 🌱 I’m currently learning all about AI/ML.
   
