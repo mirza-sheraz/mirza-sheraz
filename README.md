@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/mirza-sheraz-a80a0b247/">Mirza</a>, an AI/ML Enthusiast 👨‍💻</div>  
+### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/mirza-sheraz-a80a0b247/">Sheraz</a>, an AI/ML Enthusiast 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on Usable Security Recommender.
