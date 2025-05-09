@@ -1,11 +1,9 @@
 ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/mirza-sheraz-a80a0b247/">Sheraz</a>, an AI/ML Enthusiast 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Usable Security Recommender.
+- 🔭 Passionate about software development, seeking opportunities to innovate and deliver results.
   <h4><i>Objective:</i></h4>
-  <p>An NLP/ML-powered system that analyzes software reviews, identifies
-  usability and security conlicts, and recommends solutions for a safer and
-  more user-friendly experience.</p>
+  <p>Seeking a software developer position where I can utilize my technical expertise and skills to drive innovation, deliver high-quality solutions, and improve the company's overall performance..</p>
 
 - 🌱 I’m currently learning all about AI/ML.
   
