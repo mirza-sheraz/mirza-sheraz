@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning all about AI/ML.
   
 
-- 👯 I’m looking to collaborate on AI/ML and MERN related projects.
+- 👯 I’m looking to collaborate on Full Stack and AI/ML related projects.
 
 
-- 💬 Ask me about MERN stack and related technologies.
+- 💬 Ask me about Full Stack and related technologies.
   
 
 - ⚡ Fun fact: I've got a soft spot for the bad guys...on screen, at least!  
