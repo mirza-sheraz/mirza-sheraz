@@ -5,7 +5,7 @@
   <h4><i>Objective:</i></h4>
   <p>Seeking a software developer position where I can utilize my technical expertise and skills to drive innovation, deliver high-quality solutions, and improve the company's overall performance..</p>
 
-- 🌱 I’m currently learning all about AI/ML.
+- 🌱 I’m currently learning all about Cloud and AI/ML.
   
 
 - 👯 I’m looking to collaborate on Full Stack and AI/ML related projects.
