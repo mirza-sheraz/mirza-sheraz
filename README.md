@@ -3,7 +3,7 @@
 
 - 🔭 Passionate about software development, seeking opportunities to innovate and deliver results.
   <h4><i>Objective:</i></h4>
-  <p>Seeking a software developer position where I can utilize my technical expertise and skills to drive innovation, deliver high-quality solutions, and improve the company's overall performance..</p>
+  <p>Eager to apply my software development skills to build real-world solutions that drive innovation and create meaningful impact.</p>
 
 - 🌱 I’m currently learning all about Cloud and Data Science.
   
