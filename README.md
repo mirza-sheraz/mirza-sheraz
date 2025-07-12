@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning all about Cloud and AI/ML.
   
 
-- 👯 I’m looking to collaborate on Full Stack and AI/ML related projects.
+- 👯 I’m looking to collaborate on Full Stack Development and Data Science related projects.
 
 
 - 💬 Ask me about Full Stack and related technologies.
