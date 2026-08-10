@@ -65,19 +65,19 @@
 
 ### 📌 Featured Projects
 
-**[SecureRec](https://github.com/your-username/securerec)** — *Final Year Project*
+**SecureRec** — *Final Year Project*
 NLP-powered software review analysis tool. React.js + Flask + Python, with a recommendation engine that flags usability/security issues against ISO 25010 standards. Includes Jest testing for reliability.
 
-**[Tour Management System](https://github.com/your-username/tour-management-system)**
+**Tour Management System**
 Full-stack travel booking platform built with React.js and Node.js, deployed on AWS EC2 and containerized with Docker for consistent, scalable delivery.
 
-**[Flight Management System](https://github.com/your-username/flight-management-system)**
+**Flight Management System**
 Desktop flight booking application built in Java/Java Swing, applying OOP principles for a modular, maintainable architecture.
 
-**[Huffman Coding Implementation](https://github.com/your-username/huffman-coding)**
+**Huffman Coding Implementation**
 Data compression tool built in Java using binary trees and priority queues, with full encode/decode pipelines.
 
-> 🔗 *Replace the links above with your actual repo URLs once pinned.*
+> 🚧 *Repos for these projects are being cleaned up and pushed soon — check back, or ask me directly for a walkthrough.*
 
 ---
 
