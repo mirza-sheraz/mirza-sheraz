@@ -85,7 +85,7 @@ Data compression tool built in Java using binary trees and priority queues, with
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mirza-sheraz&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza-sheraz&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza-sheraz&layout=compact&hide_border=true" />  
 </p>
 
 ---
