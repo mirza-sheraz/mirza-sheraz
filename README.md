@@ -1,68 +1,99 @@
-### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/mirza-sheraz-a80a0b247/">Sheraz</a>, a Data Science Enthusiast.👨‍💻</div>  
-  
+<h1 align="center">Hi 👋, I'm Sheraz Ahmed</h1>
+<h3 align="center">Full-Stack Software Engineer | React.js · Node.js · Python | Cloud & Containerized Apps</h3>
 
-- 🔭 Passionate about software development, seeking opportunities to innovate and deliver results.
-  <h4><i>Objective:</i></h4>
-  <p>Eager to apply my software development skills to build real-world solutions that drive innovation and create meaningful impact.</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheraz-ahmed-a80a0b247" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mirzasheraz447@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning all about Cloud and Data Science.
-  
+---
 
-- 👯 I’m looking to collaborate on Full Stack Development and Data Science related projects.
+### 🚀 About Me
 
+- 🎓 Pursuing my **Master of Engineering in Software Systems** at BITS Pilani, Dubai (Final Year)
+- 🎓 B.S. Software Engineering — FAST-NUCES, Islamabad
+- 💻 I build **full-stack web applications** — from responsive React front-ends to REST APIs, databases, and cloud deployment
+- 🧠 Currently exploring **NLP / Machine Learning** through applied projects (see *SecureRec* below)
+- ☁️ Comfortable across the stack: **containerization (Docker/Kubernetes)** and **cloud hosting (AWS EC2)**
+- 👨‍🏫 Former **Lab Assistant**, mentored 100+ students in OS, OOP, and Web Engineering
+- 🌱 Actively growing my skills in **TypeScript, testing (Jest/Cypress), and modern front-end tooling**
+- ⚡ Fun fact: I enjoy taking projects from a rough idea all the way to a deployed, working product
 
-- 💬 Ask me about Full Stack and related technologies.
-  
+---
 
-- ⚡ Fun fact: I've got a soft spot for the bad guys...on screen, at least!  
-  
+### 🛠️ Tech Stack
 
-<br/>  
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
 
+**Front-End**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+**Back-End & Data**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
-  
-</div>
+**DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
-</td></tr></table>  
+---
 
-<br/>  
+### 📌 Featured Projects
 
+**[SecureRec](https://github.com/your-username/securerec)** — *Final Year Project*
+NLP-powered software review analysis tool. React.js + Flask + Python, with a recommendation engine that flags usability/security issues against ISO 25010 standards. Includes Jest testing for reliability.
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza-sheraz&hide_border=true&layout=compact" align="center" /></div>  
+**[Tour Management System](https://github.com/your-username/tour-management-system)**
+Full-stack travel booking platform built with React.js and Node.js, deployed on AWS EC2 and containerized with Docker for consistent, scalable delivery.
 
-<br/>  
+**[Flight Management System](https://github.com/your-username/flight-management-system)**
+Desktop flight booking application built in Java/Java Swing, applying OOP principles for a modular, maintainable architecture.
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/mirza-sheraz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/mirza-sheraz-a80a0b247/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+**[Huffman Coding Implementation](https://github.com/your-username/huffman-coding)**
+Data compression tool built in Java using binary trees and priority queues, with full encode/decode pipelines.
 
-<br/>  
+> 🔗 *Replace the links above with your actual repo URLs once pinned.*
 
-<br/>  
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sheraz-ahmed-a80a0b247" target="_blank">LinkedIn</a> ·
+  <a href="mailto:mirzasheraz447@gmail.com">mirzasheraz447@gmail.com</a> ·
+  Dubai, UAE
+</p>
